@@ -66,6 +66,7 @@
     --color-button-primary-bg-hover: var(--c-teal-dark);
     --color-button-primary-boarder: var(--c-teal);
     --color-button-primary-boarder-hover: var(--c-teal-dark);
+    --color-button-primary-text: var(--c-gray-dark);
     --color-button-primary-white-bg: var(--c-white);
     --color-button-primary-white-bg-hover: var(--c-teal);
     --color-button-primary-white-boarder: var(--c-white);
